@@ -9,6 +9,7 @@ verify_ssl = true
 jupyter = "*"
 ipykernel = "*"
 pandas = "*"
+factor-analyzer = "*"
 
 [requires]
 python_version = "3.8"
